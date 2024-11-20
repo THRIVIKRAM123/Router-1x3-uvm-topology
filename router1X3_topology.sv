@@ -1,8 +1,5 @@
 `include "uvm_macros.svh"
 import uvm_pkg::*;
-
-//..................have to create seperate monitors,drivers,sequencers,agents......................then the code will compile.
-
 //....................... Config class  ..............................
 
 
